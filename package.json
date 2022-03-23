@@ -1,0 +1,24 @@
+{
+  "name": "advanced-typescript",
+  "version": "1.0.0",
+  "description": "Playground for more advanced concepts in TypeScript",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^4.6.2"
+  },
+  "scripts": {
+    "dev": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zdenekhynek/advanced-typescript.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zdenekhynek/advanced-typescript/issues"
+  },
+  "homepage": "https://github.com/zdenekhynek/advanced-typescript#readme"
+}
